@@ -8,4 +8,4 @@
 I look green before
 
 
-<img src="https://github.com/qianshangchen/11/blob/master/thumbnail.png">
+<img src="https://github.com/qianshangchen/11/blob/master/thumbnail.png"></img>
